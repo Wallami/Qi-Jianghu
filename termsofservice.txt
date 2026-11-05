@@ -1,0 +1,19 @@
+QI - JIANGHU
+LEGAL NOTICE & TERMS OF USE
+Application Protection & Copyright Policy
+(Copied from the in-app Tools window: rpg/src/scenes/tools.js, renderToolsPolicySection)
+
+1. Strict Protection of Proprietary Code & Application Assets:
+All custom source code, compiled binaries, scripts, game balance data, cultivation mechanics, visual artwork, user interface designs, audio compositions, and written lore created for this application are the exclusive proprietary and copyrighted works of the developer. The developer claims exclusive ownership solely over code, artwork, and assets outside of the third-party open-source libraries and modules listed in the Software Licensing section below. Accessing, decompiling, disassembling, reverse-engineering, redistributing, mirroring, or creating unauthorized derivative works of the developer's proprietary code and game assets is strictly prohibited without express prior written consent.
+
+2. Scope of Developer Ownership & Third-Party Modules:
+The developer asserts intellectual property ownership only over the bespoke application code, original art, custom game balance systems, and narrative assets created specifically for Qi - Jianghu. The developer makes no claim of ownership over open-source packages, runtime dependencies, or third-party modules explicitly cataloged and attributed in the Software Licensing section (including, but not limited to, Capacitor, Firebase, Vite, Morphdom, and Cormorant Garamond / Manrope fonts), which remain the copyrighted property of their respective authors under their declared open-source licenses.
+
+3. Google & Firebase Personal Information Handling:
+If you choose to link your account or authenticate via Google / Google Play Games or Apple OAuth, your sign-in credentials, unique account identifier, display name, and email address are transmitted to and handled directly by Google and Google Cloud / Firebase Authentication infrastructure. Cloud save progress and Jade Slip backup records are synchronized with Cloud Firestore servers operated by Google. Google processes and protects this data under Google's Privacy Policy (https://policies.google.com/privacy) and Google Cloud Data Processing Terms. The developer never accesses, receives, or stores your Google account passwords or payment details.
+
+4. Acceptance of Policy & Waiver of Claims:
+By downloading, installing, launching, or playing this game, you unconditionally acknowledge and agree to these terms. Players make no claim - and irrevocably waive any right to assert any claim - to ownership, authorship, or intellectual property rights over any proprietary copyright material, code, systems, or assets created by the developer.
+
+(c) All Rights Reserved · Proprietary Software & Intellectual Property Protection Coverage · Open-Source Modules Attributed Under Respective Licenses
+
